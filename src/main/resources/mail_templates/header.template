@@ -1,0 +1,45 @@
+<html lang="Russian">
+<head>
+    <style>
+        h1 {
+            color: black;
+            background-color: #ffdd2d;
+            font-size: 22px;
+            font-weight: normal;
+            line-height: 30px;
+            margin: 6px 0 18px;
+        }
+
+        h2 {
+            color: black;
+            font-size: 18px;
+            font-weight: normal;
+            line-height: 16px;
+            margin: 12px 0 18px;
+        }
+
+        h3 {
+            color: black;
+            background-color: #e7e8ea;
+            font-size: 16px;
+            font-weight: normal;
+            margin: 12px 15px 18px;
+        }
+
+        h4 {
+            color: black;
+            font-size: 18px;
+            font-weight: normal;
+            line-height: 6px;
+            margin: 0 0 18px;
+        }
+
+        ul {
+            background-color: #e7e8ea;
+            color: black;
+            font-size: 16px;
+        }
+    </style>
+    <title>Message template</title>
+</head>
+<body>
